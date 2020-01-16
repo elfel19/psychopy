@@ -1,0 +1,246 @@
+﻿stimLeftFile,stimRightFile,Format,Left_Instantiation,Left_FracNum,Left_FracDen,Left_Decimal,Left_NonsymNum,Left_NonsymDen,Right_Instantiation,Right_FracNum,Right_FracDen,Right_Decimal,Right_NonsymNum,Right_NonsymDen,Pair,AbsDistance,CorrectChoice,SectionFile,BreakSectionText,instructions.thisRepN,instructions.thisTrialN,instructions.thisN,instructions.thisIndex,pracTrials.thisRepN,pracTrials.thisTrialN,pracTrials.thisN,pracTrials.thisIndex,trialLoop.thisRepN,trialLoop.thisTrialN,trialLoop.thisN,trialLoop.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,decisionStim.keys,decisionStim.rt,decisionBlank.keys,decisionBlank.rt,participant,session,date,expName,psychopyVersion,frameRate,
+stims/DotACDC/PRACTICE/Circle_Prac_2_5_4519_11298.png,stims/DotACDC/PRACTICE/Circle_Prac_8_9_3701_4164.png,CirclePrac,na,2,5,0.4,4519,11298,na,8,9,0.8888888888888888,3701,4164,2_9_vs_2_9,0.4888888888888888,b,,,,,,,0,0,0,2,,,,,,,,,f,0.6461250499996822,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/PRACTICE/Circle_Prac_4_9_4042_9095.png,stims/DotACDC/PRACTICE/Circle_Prac_1_8_2015_16120.png,CirclePrac,na,4,9,0.4444444444444444,4042,9095,na,1,8,0.125,2015,16120,7_8_vs_5_6,0.3194444444444444,f,,,,,,,0,1,1,3,,,,,,,,,j,0.6452595640002983,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/PRACTICE/Circle_Prac_8_9_3701_4164.png,stims/DotACDC/PRACTICE/Circle_Prac_2_5_4519_11298.png,CirclePrac,na,8,9,0.8888888888888888,3701,4164,na,2,5,0.4,4519,11298,3_7_vs_7_8,0.4888888888888888,j,,,,,,,0,2,2,4,,,,,,,,,j,0.7325216019962681,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/PRACTICE/Circle_Prac_1_3_4780_14340.png,stims/DotACDC/PRACTICE/Circle_Prac_4_9_4042_9095.png,CirclePrac,na,1,3,0.3333333333333333,4780,14340,na,4,9,0.4444444444444444,4042,9095,2_7_vs_3_8,0.1111111111111111,j,,,,,,,0,3,3,0,,,,,,,,,f,0.6009203619905747,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/PRACTICE/Circle_Prac_1_8_2015_16120.png,stims/DotACDC/PRACTICE/Circle_Prac_1_3_4780_14340.png,CirclePrac,na,1,8,0.125,2015,16120,na,1,3,0.3333333333333333,4780,14340,2_3_vs_3_8,0.20833333333333331,f,,,,,,,0,4,4,1,,,,,,,,,f,0.5695163560012588,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_3_4_104_139.png,stims/DotACDC/DotACDC_1uD_3_5_70_117.png,DotACDC,2uD,3,4,0.75,104,139,1uD,3,5,0.6,70,117,3_4_vs_3_5,0.15000000000000002,f,stims/CvE_CompStimuli_Sample1.xlsx,"Break!
+Section 1 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,0,0,0,0,0,0,8,f,1.0344746080081677,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_3_5_22_37.png,stims/DotACDC/DotACDC_2uN_5_6_37_44.png,DotACDC,1uN,3,5,0.6,22,37,2uN,5,6,0.8333333333333334,37,44,3_5_vs_5_6,0.2333333333333334,j,stims/CvE_CompStimuli_Sample1.xlsx,"Break!
+Section 1 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,0,0,0,0,1,1,7,f,0.7341629579896107,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_2_7_41_144.png,stims/DotACDC/DotACDC_2uD_3_8_24_64.png,DotACDC,1uD,2,7,0.2857142857142857,41,144,2uD,3,8,0.375,24,64,2_7_vs_3_8,0.0892857142857143,j,stims/CvE_CompStimuli_Sample1.xlsx,"Break!
+Section 1 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,0,0,0,0,2,2,0,f,0.6272339360002661,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_3_5_70_117.png,stims/DotACDC/DotACDC_2uD_2_7_42_148.png,DotACDC,1uD,3,5,0.6,70,117,2uD,2,7,0.2857142857142857,42,148,3_5_vs_2_7,0.3142857142857143,f,stims/CvE_CompStimuli_Sample1.xlsx,"Break!
+Section 1 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,0,0,0,0,3,3,5,f,0.5274580870027421,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_3_7_44_102.png,stims/DotACDC/DotACDC_1uN_7_8_46_53.png,DotACDC,2uD,3,7,0.42857142857142855,44,102,1uN,7,8,0.875,46,53,3_7_vs_7_8,0.44642857142857145,j,stims/CvE_CompStimuli_Sample1.xlsx,"Break!
+Section 1 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,0,0,0,0,4,4,4,f,0.4030039380013477,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_7_8_53_61.png,stims/DotACDC/DotACDC_2uD_5_6_120_144.png,DotACDC,2uD,7,8,0.875,53,61,2uD,5,6,0.8333333333333334,120,144,7_8_vs_5_6,0.04166666666666663,f,stims/CvE_CompStimuli_Sample1.xlsx,"Break!
+Section 1 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,0,0,0,0,5,5,3,f,0.8336304870026652,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_2_3_47_71.png,stims/DotACDC/DotACDC_1uN_3_8_27_72.png,DotACDC,1uN,2,3,0.6666666666666666,47,71,1uN,3,8,0.375,27,72,2_3_vs_3_8,0.29166666666666663,f,stims/CvE_CompStimuli_Sample1.xlsx,"Break!
+Section 1 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,0,0,0,0,6,6,1,f,0.8254532870050753,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_2_3_73_110.png,stims/DotACDC/DotACDC_1uD_5_9_56_101.png,DotACDC,1uD,2,3,0.6666666666666666,73,110,1uD,5,9,0.5555555555555556,56,101,2_3_vs_5_9,0.11111111111111105,f,stims/CvE_CompStimuli_Sample1.xlsx,"Break!
+Section 1 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,0,0,0,0,7,7,6,f,0.6249967780022416,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_2_9_31_139.png,stims/DotACDC/DotACDC_1uN_2_9_33_150.png,DotACDC,2uD,2,9,0.2222222222222222,31,139,1uN,2,9,0.2222222222222222,33,150,2_9_vs_2_9,0.0,b,stims/CvE_CompStimuli_Sample1.xlsx,"Break!
+Section 1 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,0,0,0,0,8,8,2,f,0.5529183339967858,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_3_8_27_72.png,stims/DotACDC/DotACDC_2uN_3_4_39_52.png,DotACDC,1uN,3,8,0.375,27,72,2uN,3,4,0.75,39,52,3_8_vs_3_4,0.375,j,stims/CvE_CompStimuli_Sample1.xlsx,"Break!
+Section 1 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,0,0,0,0,9,9,9,f,0.42758894799044356,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_3_5_22_37.png,stims/DotACDC/DotACDC_2uN_5_6_37_44.png,DotACDC,1uN,3,5,0.6,22,37,2uN,5,6,0.8333333333333334,37,44,3_5_vs_5_6,0.2333333333333334,j,stims/CvE_CompStimuli_Sample2.xlsx,"Break!
+Section 2 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,1,1,1,0,0,0,7,f,0.8857004839956062,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_2_7_41_144.png,stims/DotACDC/DotACDC_2uD_3_8_24_64.png,DotACDC,1uD,2,7,0.2857142857142857,41,144,2uD,3,8,0.375,24,64,2_7_vs_3_8,0.0892857142857143,j,stims/CvE_CompStimuli_Sample2.xlsx,"Break!
+Section 2 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,1,1,1,0,1,1,0,f,0.7648504710086854,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_3_8_27_72.png,stims/DotACDC/DotACDC_2uN_3_4_39_52.png,DotACDC,1uN,3,8,0.375,27,72,2uN,3,4,0.75,39,52,3_8_vs_3_4,0.375,j,stims/CvE_CompStimuli_Sample2.xlsx,"Break!
+Section 2 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,1,1,1,0,2,2,9,f,0.6777450569934445,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_2_3_47_71.png,stims/DotACDC/DotACDC_1uN_3_8_27_72.png,DotACDC,1uN,2,3,0.6666666666666666,47,71,1uN,3,8,0.375,27,72,2_3_vs_3_8,0.29166666666666663,f,stims/CvE_CompStimuli_Sample2.xlsx,"Break!
+Section 2 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,1,1,1,0,3,3,1,j,0.9044937190046767,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_3_5_70_117.png,stims/DotACDC/DotACDC_2uD_2_7_42_148.png,DotACDC,1uD,3,5,0.6,70,117,2uD,2,7,0.2857142857142857,42,148,3_5_vs_2_7,0.3142857142857143,f,stims/CvE_CompStimuli_Sample2.xlsx,"Break!
+Section 2 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,1,1,1,0,4,4,5,j,0.6960356530034915,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_3_4_104_139.png,stims/DotACDC/DotACDC_1uD_3_5_70_117.png,DotACDC,2uD,3,4,0.75,104,139,1uD,3,5,0.6,70,117,3_4_vs_3_5,0.15000000000000002,f,stims/CvE_CompStimuli_Sample2.xlsx,"Break!
+Section 2 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,1,1,1,0,5,5,8,f,0.9554534829949262,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_3_7_44_102.png,stims/DotACDC/DotACDC_1uN_7_8_46_53.png,DotACDC,2uD,3,7,0.42857142857142855,44,102,1uN,7,8,0.875,46,53,3_7_vs_7_8,0.44642857142857145,j,stims/CvE_CompStimuli_Sample2.xlsx,"Break!
+Section 2 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,1,1,1,0,6,6,4,f,0.9461317389941541,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_2_3_73_110.png,stims/DotACDC/DotACDC_1uD_5_9_56_101.png,DotACDC,1uD,2,3,0.6666666666666666,73,110,1uD,5,9,0.5555555555555556,56,101,2_3_vs_5_9,0.11111111111111105,f,stims/CvE_CompStimuli_Sample2.xlsx,"Break!
+Section 2 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,1,1,1,0,7,7,6,j,0.9850576509925304,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_7_8_53_61.png,stims/DotACDC/DotACDC_2uD_5_6_120_144.png,DotACDC,2uD,7,8,0.875,53,61,2uD,5,6,0.8333333333333334,120,144,7_8_vs_5_6,0.04166666666666663,f,stims/CvE_CompStimuli_Sample2.xlsx,"Break!
+Section 2 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,1,1,1,0,8,8,3,f,0.712869167997269,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_2_9_31_139.png,stims/DotACDC/DotACDC_1uN_2_9_33_150.png,DotACDC,2uD,2,9,0.2222222222222222,31,139,1uN,2,9,0.2222222222222222,33,150,2_9_vs_2_9,0.0,b,stims/CvE_CompStimuli_Sample2.xlsx,"Break!
+Section 2 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,1,1,1,0,9,9,2,None,,f,0.040650138005730696,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_7_8_53_61.png,stims/DotACDC/DotACDC_2uD_5_6_120_144.png,DotACDC,2uD,7,8,0.875,53,61,2uD,5,6,0.8333333333333334,120,144,7_8_vs_5_6,0.04166666666666663,f,stims/CvE_CompStimuli_Sample3.xlsx,"Break!
+Section 3 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,2,2,2,0,0,0,3,f,0.5826585580070969,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_3_5_22_37.png,stims/DotACDC/DotACDC_2uN_5_6_37_44.png,DotACDC,1uN,3,5,0.6,22,37,2uN,5,6,0.8333333333333334,37,44,3_5_vs_5_6,0.2333333333333334,j,stims/CvE_CompStimuli_Sample3.xlsx,"Break!
+Section 3 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,2,2,2,0,1,1,7,j,1.1822660170000745,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_2_9_31_139.png,stims/DotACDC/DotACDC_1uN_2_9_33_150.png,DotACDC,2uD,2,9,0.2222222222222222,31,139,1uN,2,9,0.2222222222222222,33,150,2_9_vs_2_9,0.0,b,stims/CvE_CompStimuli_Sample3.xlsx,"Break!
+Section 3 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,2,2,2,0,2,2,2,f,1.0820972109941067,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_3_8_27_72.png,stims/DotACDC/DotACDC_2uN_3_4_39_52.png,DotACDC,1uN,3,8,0.375,27,72,2uN,3,4,0.75,39,52,3_8_vs_3_4,0.375,j,stims/CvE_CompStimuli_Sample3.xlsx,"Break!
+Section 3 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,2,2,2,0,3,3,9,f,1.0310658840026008,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_2_7_41_144.png,stims/DotACDC/DotACDC_2uD_3_8_24_64.png,DotACDC,1uD,2,7,0.2857142857142857,41,144,2uD,3,8,0.375,24,64,2_7_vs_3_8,0.0892857142857143,j,stims/CvE_CompStimuli_Sample3.xlsx,"Break!
+Section 3 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,2,2,2,0,4,4,0,f,1.2525206830032403,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_2_3_47_71.png,stims/DotACDC/DotACDC_1uN_3_8_27_72.png,DotACDC,1uN,2,3,0.6666666666666666,47,71,1uN,3,8,0.375,27,72,2_3_vs_3_8,0.29166666666666663,f,stims/CvE_CompStimuli_Sample3.xlsx,"Break!
+Section 3 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,2,2,2,0,5,5,1,j,1.2796769090055022,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_2_3_73_110.png,stims/DotACDC/DotACDC_1uD_5_9_56_101.png,DotACDC,1uD,2,3,0.6666666666666666,73,110,1uD,5,9,0.5555555555555556,56,101,2_3_vs_5_9,0.11111111111111105,f,stims/CvE_CompStimuli_Sample3.xlsx,"Break!
+Section 3 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,2,2,2,0,6,6,6,None,,j,0.006190499989315867,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_3_4_104_139.png,stims/DotACDC/DotACDC_1uD_3_5_70_117.png,DotACDC,2uD,3,4,0.75,104,139,1uD,3,5,0.6,70,117,3_4_vs_3_5,0.15000000000000002,f,stims/CvE_CompStimuli_Sample3.xlsx,"Break!
+Section 3 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,2,2,2,0,7,7,8,None,,f,0.1970173209992936,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_3_7_44_102.png,stims/DotACDC/DotACDC_1uN_7_8_46_53.png,DotACDC,2uD,3,7,0.42857142857142855,44,102,1uN,7,8,0.875,46,53,3_7_vs_7_8,0.44642857142857145,j,stims/CvE_CompStimuli_Sample3.xlsx,"Break!
+Section 3 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,2,2,2,0,8,8,4,f,0.9413348920061253,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_3_5_70_117.png,stims/DotACDC/DotACDC_2uD_2_7_42_148.png,DotACDC,1uD,3,5,0.6,70,117,2uD,2,7,0.2857142857142857,42,148,3_5_vs_2_7,0.3142857142857143,f,stims/CvE_CompStimuli_Sample3.xlsx,"Break!
+Section 3 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,2,2,2,0,9,9,5,None,,j,0.4616812500025844,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_3_8_27_72.png,stims/DotACDC/DotACDC_2uN_3_4_39_52.png,DotACDC,1uN,3,8,0.375,27,72,2uN,3,4,0.75,39,52,3_8_vs_3_4,0.375,j,stims/CvE_CompStimuli_Sample4.xlsx,"Break!
+Section 4 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,3,3,3,0,0,0,9,f,0.9621410440013278,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_3_7_44_102.png,stims/DotACDC/DotACDC_1uN_7_8_46_53.png,DotACDC,2uD,3,7,0.42857142857142855,44,102,1uN,7,8,0.875,46,53,3_7_vs_7_8,0.44642857142857145,j,stims/CvE_CompStimuli_Sample4.xlsx,"Break!
+Section 4 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,3,3,3,0,1,1,4,f,1.3536896080040606,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_3_5_70_117.png,stims/DotACDC/DotACDC_2uD_2_7_42_148.png,DotACDC,1uD,3,5,0.6,70,117,2uD,2,7,0.2857142857142857,42,148,3_5_vs_2_7,0.3142857142857143,f,stims/CvE_CompStimuli_Sample4.xlsx,"Break!
+Section 4 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,3,3,3,0,2,2,5,None,,j,0.0113867769978242,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_7_8_53_61.png,stims/DotACDC/DotACDC_2uD_5_6_120_144.png,DotACDC,2uD,7,8,0.875,53,61,2uD,5,6,0.8333333333333334,120,144,7_8_vs_5_6,0.04166666666666663,f,stims/CvE_CompStimuli_Sample4.xlsx,"Break!
+Section 4 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,3,3,3,0,3,3,3,f,1.1046380230109207,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_2_3_73_110.png,stims/DotACDC/DotACDC_1uD_5_9_56_101.png,DotACDC,1uD,2,3,0.6666666666666666,73,110,1uD,5,9,0.5555555555555556,56,101,2_3_vs_5_9,0.11111111111111105,f,stims/CvE_CompStimuli_Sample4.xlsx,"Break!
+Section 4 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,3,3,3,0,4,4,6,None,,j,0.06833180900139268,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_3_5_22_37.png,stims/DotACDC/DotACDC_2uN_5_6_37_44.png,DotACDC,1uN,3,5,0.6,22,37,2uN,5,6,0.8333333333333334,37,44,3_5_vs_5_6,0.2333333333333334,j,stims/CvE_CompStimuli_Sample4.xlsx,"Break!
+Section 4 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,3,3,3,0,5,5,7,j,1.3530785420007305,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_2_7_41_144.png,stims/DotACDC/DotACDC_2uD_3_8_24_64.png,DotACDC,1uD,2,7,0.2857142857142857,41,144,2uD,3,8,0.375,24,64,2_7_vs_3_8,0.0892857142857143,j,stims/CvE_CompStimuli_Sample4.xlsx,"Break!
+Section 4 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,3,3,3,0,6,6,0,f,1.3788936730124988,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_2_3_47_71.png,stims/DotACDC/DotACDC_1uN_3_8_27_72.png,DotACDC,1uN,2,3,0.6666666666666666,47,71,1uN,3,8,0.375,27,72,2_3_vs_3_8,0.29166666666666663,f,stims/CvE_CompStimuli_Sample4.xlsx,"Break!
+Section 4 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,3,3,3,0,7,7,1,j,1.1722103799984325,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_2_9_31_139.png,stims/DotACDC/DotACDC_1uN_2_9_33_150.png,DotACDC,2uD,2,9,0.2222222222222222,31,139,1uN,2,9,0.2222222222222222,33,150,2_9_vs_2_9,0.0,b,stims/CvE_CompStimuli_Sample4.xlsx,"Break!
+Section 4 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,3,3,3,0,8,8,2,None,,f,0.1942407850001473,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_3_4_104_139.png,stims/DotACDC/DotACDC_1uD_3_5_70_117.png,DotACDC,2uD,3,4,0.75,104,139,1uD,3,5,0.6,70,117,3_4_vs_3_5,0.15000000000000002,f,stims/CvE_CompStimuli_Sample4.xlsx,"Break!
+Section 4 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,3,3,3,0,9,9,8,j,1.1565624239883618,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_3_4_104_139.png,stims/DotACDC/DotACDC_1uD_3_5_70_117.png,DotACDC,2uD,3,4,0.75,104,139,1uD,3,5,0.6,70,117,3_4_vs_3_5,0.15000000000000002,f,stims/CvE_CompStimuli_Sample5.xlsx,"Break!
+Section 5 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,4,4,4,0,0,0,8,j,0.9857407800009241,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_7_8_53_61.png,stims/DotACDC/DotACDC_2uD_5_6_120_144.png,DotACDC,2uD,7,8,0.875,53,61,2uD,5,6,0.8333333333333334,120,144,7_8_vs_5_6,0.04166666666666663,f,stims/CvE_CompStimuli_Sample5.xlsx,"Break!
+Section 5 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,4,4,4,0,1,1,3,f,1.0436905679962365,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_2_7_41_144.png,stims/DotACDC/DotACDC_2uD_3_8_24_64.png,DotACDC,1uD,2,7,0.2857142857142857,41,144,2uD,3,8,0.375,24,64,2_7_vs_3_8,0.0892857142857143,j,stims/CvE_CompStimuli_Sample5.xlsx,"Break!
+Section 5 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,4,4,4,0,2,2,0,f,1.2103661840083078,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_3_8_27_72.png,stims/DotACDC/DotACDC_2uN_3_4_39_52.png,DotACDC,1uN,3,8,0.375,27,72,2uN,3,4,0.75,39,52,3_8_vs_3_4,0.375,j,stims/CvE_CompStimuli_Sample5.xlsx,"Break!
+Section 5 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,4,4,4,0,3,3,9,f,1.0639716000005137,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_2_3_47_71.png,stims/DotACDC/DotACDC_1uN_3_8_27_72.png,DotACDC,1uN,2,3,0.6666666666666666,47,71,1uN,3,8,0.375,27,72,2_3_vs_3_8,0.29166666666666663,f,stims/CvE_CompStimuli_Sample5.xlsx,"Break!
+Section 5 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,4,4,4,0,4,4,1,j,1.0475803370063659,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_2_9_31_139.png,stims/DotACDC/DotACDC_1uN_2_9_33_150.png,DotACDC,2uD,2,9,0.2222222222222222,31,139,1uN,2,9,0.2222222222222222,33,150,2_9_vs_2_9,0.0,b,stims/CvE_CompStimuli_Sample5.xlsx,"Break!
+Section 5 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,4,4,4,0,5,5,2,f,1.2216303070017602,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_3_5_70_117.png,stims/DotACDC/DotACDC_2uD_2_7_42_148.png,DotACDC,1uD,3,5,0.6,70,117,2uD,2,7,0.2857142857142857,42,148,3_5_vs_2_7,0.3142857142857143,f,stims/CvE_CompStimuli_Sample5.xlsx,"Break!
+Section 5 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,4,4,4,0,6,6,5,j,1.3560761340049794,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_3_7_44_102.png,stims/DotACDC/DotACDC_1uN_7_8_46_53.png,DotACDC,2uD,3,7,0.42857142857142855,44,102,1uN,7,8,0.875,46,53,3_7_vs_7_8,0.44642857142857145,j,stims/CvE_CompStimuli_Sample5.xlsx,"Break!
+Section 5 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,4,4,4,0,7,7,4,f,0.9974740839970764,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_2_3_73_110.png,stims/DotACDC/DotACDC_1uD_5_9_56_101.png,DotACDC,1uD,2,3,0.6666666666666666,73,110,1uD,5,9,0.5555555555555556,56,101,2_3_vs_5_9,0.11111111111111105,f,stims/CvE_CompStimuli_Sample5.xlsx,"Break!
+Section 5 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,4,4,4,0,8,8,6,j,1.247492655995302,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_3_5_22_37.png,stims/DotACDC/DotACDC_2uN_5_6_37_44.png,DotACDC,1uN,3,5,0.6,22,37,2uN,5,6,0.8333333333333334,37,44,3_5_vs_5_6,0.2333333333333334,j,stims/CvE_CompStimuli_Sample5.xlsx,"Break!
+Section 5 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,4,4,4,0,9,9,7,f,0.9061087500012945,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_2_3_73_110.png,stims/DotACDC/DotACDC_1uD_5_9_56_101.png,DotACDC,1uD,2,3,0.6666666666666666,73,110,1uD,5,9,0.5555555555555556,56,101,2_3_vs_5_9,0.11111111111111105,f,stims/CvE_CompStimuli_Sample6.xlsx,"Break!
+Section 6 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,5,5,5,0,0,0,6,j,1.085979583003791,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_3_7_44_102.png,stims/DotACDC/DotACDC_1uN_7_8_46_53.png,DotACDC,2uD,3,7,0.42857142857142855,44,102,1uN,7,8,0.875,46,53,3_7_vs_7_8,0.44642857142857145,j,stims/CvE_CompStimuli_Sample6.xlsx,"Break!
+Section 6 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,5,5,5,0,1,1,4,f,1.0436604100104887,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_2_7_41_144.png,stims/DotACDC/DotACDC_2uD_3_8_24_64.png,DotACDC,1uD,2,7,0.2857142857142857,41,144,2uD,3,8,0.375,24,64,2_7_vs_3_8,0.0892857142857143,j,stims/CvE_CompStimuli_Sample6.xlsx,"Break!
+Section 6 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,5,5,5,0,2,2,0,f,1.0754147980042035,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_2_9_31_139.png,stims/DotACDC/DotACDC_1uN_2_9_33_150.png,DotACDC,2uD,2,9,0.2222222222222222,31,139,1uN,2,9,0.2222222222222222,33,150,2_9_vs_2_9,0.0,b,stims/CvE_CompStimuli_Sample6.xlsx,"Break!
+Section 6 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,5,5,5,0,3,3,2,None,,j,0.5966268040065188,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_2_3_47_71.png,stims/DotACDC/DotACDC_1uN_3_8_27_72.png,DotACDC,1uN,2,3,0.6666666666666666,47,71,1uN,3,8,0.375,27,72,2_3_vs_3_8,0.29166666666666663,f,stims/CvE_CompStimuli_Sample6.xlsx,"Break!
+Section 6 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,5,5,5,0,4,4,1,f,1.214300573003129,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_7_8_53_61.png,stims/DotACDC/DotACDC_2uD_5_6_120_144.png,DotACDC,2uD,7,8,0.875,53,61,2uD,5,6,0.8333333333333334,120,144,7_8_vs_5_6,0.04166666666666663,f,stims/CvE_CompStimuli_Sample6.xlsx,"Break!
+Section 6 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,5,5,5,0,5,5,3,f,0.9829586029954953,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_3_5_70_117.png,stims/DotACDC/DotACDC_2uD_2_7_42_148.png,DotACDC,1uD,3,5,0.6,70,117,2uD,2,7,0.2857142857142857,42,148,3_5_vs_2_7,0.3142857142857143,f,stims/CvE_CompStimuli_Sample6.xlsx,"Break!
+Section 6 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,5,5,5,0,6,6,5,j,1.1675253809953574,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_3_5_22_37.png,stims/DotACDC/DotACDC_2uN_5_6_37_44.png,DotACDC,1uN,3,5,0.6,22,37,2uN,5,6,0.8333333333333334,37,44,3_5_vs_5_6,0.2333333333333334,j,stims/CvE_CompStimuli_Sample6.xlsx,"Break!
+Section 6 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,5,5,5,0,7,7,7,None,,f,0.16435818500758614,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_3_8_27_72.png,stims/DotACDC/DotACDC_2uN_3_4_39_52.png,DotACDC,1uN,3,8,0.375,27,72,2uN,3,4,0.75,39,52,3_8_vs_3_4,0.375,j,stims/CvE_CompStimuli_Sample6.xlsx,"Break!
+Section 6 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,5,5,5,0,8,8,9,f,1.0773949809954502,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_3_4_104_139.png,stims/DotACDC/DotACDC_1uD_3_5_70_117.png,DotACDC,2uD,3,4,0.75,104,139,1uD,3,5,0.6,70,117,3_4_vs_3_5,0.15000000000000002,f,stims/CvE_CompStimuli_Sample6.xlsx,"Break!
+Section 6 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,5,5,5,0,9,9,8,None,,j,0.4509204329951899,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_2_3_73_110.png,stims/DotACDC/DotACDC_1uD_5_9_56_101.png,DotACDC,1uD,2,3,0.6666666666666666,73,110,1uD,5,9,0.5555555555555556,56,101,2_3_vs_5_9,0.11111111111111105,f,stims/CvE_CompStimuli_Sample7.xlsx,"Break!
+Section 7 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,6,6,6,0,0,0,6,j,1.201431445995695,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_3_7_44_102.png,stims/DotACDC/DotACDC_1uN_7_8_46_53.png,DotACDC,2uD,3,7,0.42857142857142855,44,102,1uN,7,8,0.875,46,53,3_7_vs_7_8,0.44642857142857145,j,stims/CvE_CompStimuli_Sample7.xlsx,"Break!
+Section 7 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,6,6,6,0,1,1,4,f,1.0328179450007156,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_7_8_53_61.png,stims/DotACDC/DotACDC_2uD_5_6_120_144.png,DotACDC,2uD,7,8,0.875,53,61,2uD,5,6,0.8333333333333334,120,144,7_8_vs_5_6,0.04166666666666663,f,stims/CvE_CompStimuli_Sample7.xlsx,"Break!
+Section 7 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,6,6,6,0,2,2,3,f,0.8565546819882002,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_3_5_70_117.png,stims/DotACDC/DotACDC_2uD_2_7_42_148.png,DotACDC,1uD,3,5,0.6,70,117,2uD,2,7,0.2857142857142857,42,148,3_5_vs_2_7,0.3142857142857143,f,stims/CvE_CompStimuli_Sample7.xlsx,"Break!
+Section 7 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,6,6,6,0,3,3,5,j,0.7955525610013865,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_3_8_27_72.png,stims/DotACDC/DotACDC_2uN_3_4_39_52.png,DotACDC,1uN,3,8,0.375,27,72,2uN,3,4,0.75,39,52,3_8_vs_3_4,0.375,j,stims/CvE_CompStimuli_Sample7.xlsx,"Break!
+Section 7 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,6,6,6,0,4,4,9,f,0.9643755279976176,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_2_3_47_71.png,stims/DotACDC/DotACDC_1uN_3_8_27_72.png,DotACDC,1uN,2,3,0.6666666666666666,47,71,1uN,3,8,0.375,27,72,2_3_vs_3_8,0.29166666666666663,f,stims/CvE_CompStimuli_Sample7.xlsx,"Break!
+Section 7 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,6,6,6,0,5,5,1,j,0.9818281610059785,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_3_4_104_139.png,stims/DotACDC/DotACDC_1uD_3_5_70_117.png,DotACDC,2uD,3,4,0.75,104,139,1uD,3,5,0.6,70,117,3_4_vs_3_5,0.15000000000000002,f,stims/CvE_CompStimuli_Sample7.xlsx,"Break!
+Section 7 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,6,6,6,0,6,6,8,j,1.2018252850102726,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_2_7_41_144.png,stims/DotACDC/DotACDC_2uD_3_8_24_64.png,DotACDC,1uD,2,7,0.2857142857142857,41,144,2uD,3,8,0.375,24,64,2_7_vs_3_8,0.0892857142857143,j,stims/CvE_CompStimuli_Sample7.xlsx,"Break!
+Section 7 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,6,6,6,0,7,7,0,f,1.197423338991939,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_2_9_31_139.png,stims/DotACDC/DotACDC_1uN_2_9_33_150.png,DotACDC,2uD,2,9,0.2222222222222222,31,139,1uN,2,9,0.2222222222222222,33,150,2_9_vs_2_9,0.0,b,stims/CvE_CompStimuli_Sample7.xlsx,"Break!
+Section 7 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,6,6,6,0,8,8,2,f,1.3025133210030617,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_3_5_22_37.png,stims/DotACDC/DotACDC_2uN_5_6_37_44.png,DotACDC,1uN,3,5,0.6,22,37,2uN,5,6,0.8333333333333334,37,44,3_5_vs_5_6,0.2333333333333334,j,stims/CvE_CompStimuli_Sample7.xlsx,"Break!
+Section 7 of 8 complete.
+Press SPACE to continue.",,,,,,,,,0,6,6,6,0,9,9,7,None,,f,0.8102462460083188,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_2_3_47_71.png,stims/DotACDC/DotACDC_1uN_3_8_27_72.png,DotACDC,1uN,2,3,0.6666666666666666,47,71,1uN,3,8,0.375,27,72,2_3_vs_3_8,0.29166666666666663,f,stims/CvE_CompStimuli_Sample8.xlsx,"Great job!
+You are ready for the next activity!
+Please let the experimenter know.",,,,,,,,,0,7,7,7,0,0,0,1,j,0.7725977249938296,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_2_9_31_139.png,stims/DotACDC/DotACDC_1uN_2_9_33_150.png,DotACDC,2uD,2,9,0.2222222222222222,31,139,1uN,2,9,0.2222222222222222,33,150,2_9_vs_2_9,0.0,b,stims/CvE_CompStimuli_Sample8.xlsx,"Great job!
+You are ready for the next activity!
+Please let the experimenter know.",,,,,,,,,0,7,7,7,0,1,1,2,None,,j,0.0757058470044285,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_3_8_27_72.png,stims/DotACDC/DotACDC_2uN_3_4_39_52.png,DotACDC,1uN,3,8,0.375,27,72,2uN,3,4,0.75,39,52,3_8_vs_3_4,0.375,j,stims/CvE_CompStimuli_Sample8.xlsx,"Great job!
+You are ready for the next activity!
+Please let the experimenter know.",,,,,,,,,0,7,7,7,0,2,2,9,f,1.0177633130078902,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_3_7_44_102.png,stims/DotACDC/DotACDC_1uN_7_8_46_53.png,DotACDC,2uD,3,7,0.42857142857142855,44,102,1uN,7,8,0.875,46,53,3_7_vs_7_8,0.44642857142857145,j,stims/CvE_CompStimuli_Sample8.xlsx,"Great job!
+You are ready for the next activity!
+Please let the experimenter know.",,,,,,,,,0,7,7,7,0,3,3,4,f,0.8732558060000883,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_2_3_73_110.png,stims/DotACDC/DotACDC_1uD_5_9_56_101.png,DotACDC,1uD,2,3,0.6666666666666666,73,110,1uD,5,9,0.5555555555555556,56,101,2_3_vs_5_9,0.11111111111111105,f,stims/CvE_CompStimuli_Sample8.xlsx,"Great job!
+You are ready for the next activity!
+Please let the experimenter know.",,,,,,,,,0,7,7,7,0,4,4,6,j,1.1348463790054666,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_3_4_104_139.png,stims/DotACDC/DotACDC_1uD_3_5_70_117.png,DotACDC,2uD,3,4,0.75,104,139,1uD,3,5,0.6,70,117,3_4_vs_3_5,0.15000000000000002,f,stims/CvE_CompStimuli_Sample8.xlsx,"Great job!
+You are ready for the next activity!
+Please let the experimenter know.",,,,,,,,,0,7,7,7,0,5,5,8,j,1.127535160005209,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_3_5_70_117.png,stims/DotACDC/DotACDC_2uD_2_7_42_148.png,DotACDC,1uD,3,5,0.6,70,117,2uD,2,7,0.2857142857142857,42,148,3_5_vs_2_7,0.3142857142857143,f,stims/CvE_CompStimuli_Sample8.xlsx,"Great job!
+You are ready for the next activity!
+Please let the experimenter know.",,,,,,,,,0,7,7,7,0,6,6,5,j,1.1035470640053973,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uN_3_5_22_37.png,stims/DotACDC/DotACDC_2uN_5_6_37_44.png,DotACDC,1uN,3,5,0.6,22,37,2uN,5,6,0.8333333333333334,37,44,3_5_vs_5_6,0.2333333333333334,j,stims/CvE_CompStimuli_Sample8.xlsx,"Great job!
+You are ready for the next activity!
+Please let the experimenter know.",,,,,,,,,0,7,7,7,0,7,7,7,None,,j,0.2603739409969421,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_1uD_2_7_41_144.png,stims/DotACDC/DotACDC_2uD_3_8_24_64.png,DotACDC,1uD,2,7,0.2857142857142857,41,144,2uD,3,8,0.375,24,64,2_7_vs_3_8,0.0892857142857143,j,stims/CvE_CompStimuli_Sample8.xlsx,"Great job!
+You are ready for the next activity!
+Please let the experimenter know.",,,,,,,,,0,7,7,7,0,8,8,0,None,,f,0.023119538993341848,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
+stims/DotACDC/DotACDC_2uD_7_8_53_61.png,stims/DotACDC/DotACDC_2uD_5_6_120_144.png,DotACDC,2uD,7,8,0.875,53,61,2uD,5,6,0.8333333333333334,120,144,7_8_vs_5_6,0.04166666666666663,f,stims/CvE_CompStimuli_Sample8.xlsx,"Great job!
+You are ready for the next activity!
+Please let the experimenter know.",,,,,,,,,0,7,7,7,0,9,9,3,f,0.8859719230094925,None,,av,001,2020_Jan_15_1850,CvE_Comparison_PP3,3.1.5,60.4426241192189,
